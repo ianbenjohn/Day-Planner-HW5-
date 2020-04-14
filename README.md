@@ -20,6 +20,6 @@ Our task was to build a basic/simple day scheduler that will save tasks to local
 7. Please send me a job offer because I just showed so much skill
 
 #### ShoutOuts
-In all seriousness. Shoutout massively YouTube, Stack OverFlow, Iyrna my teacher and sometimes Forrest/Tim my TA's. Not too much thanks to them honestly. JK. A lot of thanks. Also, I had a different repo this was in but I really didnt like how I did it. I fixed it up and was able to implement a lot of ES6 into the syntax since we are firther along in the course. It really helped me out on this! 
+In all seriousness. Shoutout massively YouTube, Stack OverFlow, Iyrna my teacher and sometimes Forrest/Tim my TA's. Not too much thanks to them honestly. JK. A lot of thanks! Also, I had a different repo this was in but I really didnt like how I did it. I fixed it up and was able to implement a lot of ES6 into the syntax since we are further along in the course. It really helped me out on this! 
 
 ## Cheers
