@@ -42,7 +42,7 @@ function colorHour(){
             $(`#text${i}`).addClass( "future");
         }
     }
-}
+};
 
 setInterval(function() {
     colorHour();
